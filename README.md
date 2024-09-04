@@ -1,4 +1,7 @@
 # 💫 About Me:
+👋 Hi there! I'm a passionate Full Stack Developer with a focus on building dynamic and scalable web applications using Django, Django Rest Framework, and React. I thrive on solving complex problems and love turning ideas into robust digital solutions.
+
+
 🔭 I’m currently working on LMS project<br>🌱 I’m currently learning React js<br>
 
 
